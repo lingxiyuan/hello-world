@@ -2,5 +2,5 @@
 My first repository
 
 I'm a sophomore from Schools of Mathematical Sciences, PKU.
-Personal Interest: Stochastic modeling, Machine Learning.
+Personal Interest: Stochastic Modeling, Machine Learning.
 (To be continued...)
